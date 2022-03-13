@@ -5,4 +5,4 @@
 
 # Raiway
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?code=xVWB1g&referralCode=rWoMwO)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?code=907kP9&referralCode=C3Eb1N)
