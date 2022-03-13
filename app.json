@@ -1,13 +1,13 @@
 {
-    "name": "Player UserBot",
-    "description": "Telegram UserBot To Play Songs And Videos In Telegram Voice Chat.",
+    "name": "Player",
+    "description": "Telegram bot To Play Songs And Videos In Telegram Voice Chat.",
     "logo": "",
     "keywords": [
         "Telegram",
         "MusicPlayer",
         "VideoPlayer"
     ],
-    "repository": "https://github.com/piroXpower/VCUserBot",
+    "repository": "https://github.com/rakeshyt2/VcAssistantBot",
     "env": {
         "SESSION": {
             "description": "Pyrogram String Session",
