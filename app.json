@@ -7,7 +7,7 @@
         "MusicPlayer",
         "VideoPlayer"
     ],
-    "repository": "https://github.com/rakeshyt2/VcAssistantBot",
+    "repository": "https://github.com/LGCY-NAVYA/VcAssistantBot",
     "env": {
         "SESSION": {
             "description": "Pyrogram String Session",
